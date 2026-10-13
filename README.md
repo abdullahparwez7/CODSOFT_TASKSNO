@@ -48,4 +48,4 @@ python task1_todo_list.py
 
 ## Author
 
-Abdullah Parwezs.
+Abdullah Parwez
